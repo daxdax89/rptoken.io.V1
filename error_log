@@ -1,0 +1,4 @@
+[25-Aug-2017 13:07:25 America/New_York] PHP Parse error:  syntax error, unexpected ''];' (T_ENCAPSED_AND_WHITESPACE) in /home/daxdqlki/rptoken.io/submitMail.php on line 138
+[25-Aug-2017 13:08:48 America/New_York] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home/daxdqlki/rptoken.io/submitMail.php on line 141
+[25-Aug-2017 13:10:12 America/New_York] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/daxdqlki/rptoken.io/submitMail.php on line 142
+[25-Aug-2017 13:11:06 America/New_York] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/daxdqlki/rptoken.io/submitMail.php on line 142
